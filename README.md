@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2 align="center">🌼 Hey there, I'm Suman (a.k.a. <code>sumanincode</code>)</h2>
 
-<!--
-**sumanincode/sumanincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌸 About Me
+- 👩‍💻 **SDET | Loves breaking things to make them better**  
+- 💻 **C#, TypeScript, Selenium, RestSharp, Playwright**  
+- 🐣 **Currently Learning:** Python 
+- 🌌 **For now, I find bugs. One day, I’ll create cooler ones.**  
+- 🍵 Surviving on **Tea, Anime Energy & Quiet Determination**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+| Area | Tools |
+|------|-------|
+| 💼 Automation / QA | Selenium • RestSharp • C# • TypeScript |
+| 🧪 Currently Exploring | Python • JavaScript • Playwright • AI basics |
+| 🎨 Vibe Stack | Calm UI • Clean Code • Cozy Aesthetics |
+
+---
+
+### 📚 Learning Journey (WIP)
+```yaml
+learning:
+  - Python fundamentals → small scripts → real projects
+  - JavaScript Basics
+  - Playwright automation
+  - Sneaking into AI (slow but curious)
