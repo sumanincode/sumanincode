@@ -1,4 +1,4 @@
-<h2 align="center">🌼 Hey there, I'm Suman (a.k.a. <code>sumanincode</code>)</h2>
+<h2 align="center">🌼 Hey there, I'm SSuman (a.k.a. <code>hikariincode</code>)</h2>
 
 ---
 
